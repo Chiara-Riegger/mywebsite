@@ -1,0 +1,52 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Chiara Riegger'
+theme = 'barks'
+
+[params]
+  [params.head]
+    custom_css = "/css/custom.css"
+
+  [params.typography]
+    title_font = "Bree Serif"
+    body_font = "Source Sans Pro"
+
+  [params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#3d7b85"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications and Talks"
+    url = "/publications/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      attribute = true
+    [markup.goldmark.renderer]
+      unsafe = true
+
+

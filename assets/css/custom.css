@@ -1,0 +1,14 @@
+/* Profile image */
+.profile-image {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  border-radius: 0; /* square corners */
+}
+
+/* Change color of headers */
+h1 {
+  color: #3d7b85 !important;
+}
+
