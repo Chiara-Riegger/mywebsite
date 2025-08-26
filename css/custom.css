@@ -1,0 +1,74 @@
+/* Profile image */
+.profile-image {
+  width: 250px;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  border-radius: 0; /* square corners */
+}
+
+/* Navigation menu links */
+nav a {
+  color: #3d7b85 !important; /* teal */
+}
+
+/* Page titles */
+h1 {
+  color: #000000 !important; /* black */
+}
+
+nav a:hover {
+  color: #2a555d !important; /* darker teal */
+}
+
+
+/* Style links inside content */
+.main a {
+  color: #000000;              /* make links black like titles */
+  text-decoration: none;       /* remove underline */
+  border-bottom: 1px solid #000000; /* add a black underline instead */
+}
+
+.main a:hover {
+  color: #000000;              /* keep them black on hover */
+  border-bottom: 1px solid #000000; /* black underline on hover */
+}
+
+
+/* Hanging indent for publication-style lists */
+.hanging-indent {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1rem 0;
+}
+.hanging-indent li {
+  margin: 0 0 .6em 0;
+  padding-left: 1.5em;   /* width of the “hang” */
+  text-indent: -1.5em;   /* pull first line back */
+  line-height: 1.4;
+}
+
+
+
+.cv-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cv-list li {
+  position: relative;
+  margin: 1em 0;
+  padding-left: 6em;          /* space for the date on the left */
+}
+
+.cv-list li::before {
+  content: attr(data-date);   /* pulls date from data-date="" */
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  color: #3d7b85;             /* teal */
+  width: 5em;                 /* aligns dates neatly */
+}
+
+
