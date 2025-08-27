@@ -1,4 +1,4 @@
-<img src="{{ "images/profile.jpg" | relURL | absURL }}" alt="Profile picture" class="profile-image" />
+
 ---
 title: "Chiara Riegger"
 
