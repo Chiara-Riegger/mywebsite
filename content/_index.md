@@ -4,7 +4,7 @@ title: "Chiara Riegger"
 
 ---
 
-# Welcome!
+# Welcome
 
 <img src="/mywebsite/images/profile.jpg" alt="Profile picture" class="profile-image" />
 
