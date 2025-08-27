@@ -6,7 +6,7 @@ title: "Chiara Riegger"
 
 # Welcome!
 
-<img src="{{ "images/profile.jpg" | relURL }}" alt="Profile picture" class="profile-image" />
+<img src="{{ "images/profile.jpg" | absURL }}" alt="Profile picture" class="profile-image" />
 
 
 
