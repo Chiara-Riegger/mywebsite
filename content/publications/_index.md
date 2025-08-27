@@ -6,7 +6,7 @@ title: "Publications and Talks"
 
 - **Riegger, Chiara**. accepted. Old Saxon Vowel Insertion. *Journal of Germanic Linguistics*.
 - **Riegger, Chiara**, Tina Bögel & George Walkden. 2024. The prosody of the verbal prefix ge-: historical and experimentalevidence. *Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech)*,01-05. September, Kos, Greece. 2065-2069.
-[Link](https://www.isca-archive.org/interspeech_2024/riegger24_interspeech.html) | [PDF](/papers/Riegger_Bögel_Walkden_2024_Interspeech.pdf)
+[Link](https://www.isca-archive.org/interspeech_2024/riegger24_interspeech.html) | [PDF]({{ "papers/Riegger_Bögel_Walkden_2024_Interspeech.pdf" | absURL }})
 - Hartmann, Frederik & **Chiara Riegger**. 2022. The Burgundian language and its phylogeny: A cladistical investigation. *NOWELE* 75(1). 42-80.
 [Link](https://www.benjamins.com/catalog/nowele.00062.har)
 
