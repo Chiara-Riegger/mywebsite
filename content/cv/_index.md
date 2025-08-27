@@ -3,7 +3,7 @@ title: "CV"
 
 ---
 
-You can download my full CV [here]({{< absURL "files/CV_Riegger.pdf" >}}).
+You can download my full CV [here](/mywebsite/files/CV_Riegger.pdf) .
 
 
 ## Education
