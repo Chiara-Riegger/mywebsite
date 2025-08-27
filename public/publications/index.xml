@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Chiara Riegger</title>
-    <link>https://chiara-riegger.github.io/mywebsite/publications/</link>
-    <description>Recent content in Publications on Chiara Riegger</description>
+    <title>Publications and Talks on Chiara Riegger</title>
+    <link>http://localhost:1313/mywebsite/publications/</link>
+    <description>Recent content in Publications and Talks on Chiara Riegger</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://chiara-riegger.github.io/mywebsite/publications/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications and Talks</title>
-      <link>https://chiara-riegger.github.io/mywebsite/publications/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chiara-riegger.github.io/mywebsite/publications/publications/</guid>
-      <description>Publications Riegger, Chiara. accepted. Old Saxon Vowel Insertion. Journal of Germanic Linguistics. Riegger, Chiara, Tina Bögel &amp;amp; George Walkden. 2024. The prosody of the verbal prefix ge-: historical and experimental evidence. Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech), 01-05. September, Kos, Greece. 2065-2069.&#xA;Link Hartmann, Frederik &amp;amp; Chiara Riegger. 2022. The Burgundian language and its phylogeny: A cladistical investigation. NOWELE 75(1). 42-80. Link Conference Talks *not present for talk</description>
-    </item>
+    <atom:link href="http://localhost:1313/mywebsite/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
